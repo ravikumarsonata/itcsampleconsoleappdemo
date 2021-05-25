@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\UniqueNameConsoleApp\UniqueNameConsoleApp\bin\Debug\netcoreapp3.1\UniqueNameConsoleApp.exe
+C:\Users\DELL\source\repos\UniqueNameConsoleApp\UniqueNameConsoleApp\bin\Debug\netcoreapp3.1\UniqueNameConsoleApp.deps.json
+C:\Users\DELL\source\repos\UniqueNameConsoleApp\UniqueNameConsoleApp\bin\Debug\netcoreapp3.1\UniqueNameConsoleApp.runtimeconfig.json
+C:\Users\DELL\source\repos\UniqueNameConsoleApp\UniqueNameConsoleApp\bin\Debug\netcoreapp3.1\UniqueNameConsoleApp.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\UniqueNameConsoleApp\UniqueNameConsoleApp\bin\Debug\netcoreapp3.1\UniqueNameConsoleApp.dll
+C:\Users\DELL\source\repos\UniqueNameConsoleApp\UniqueNameConsoleApp\bin\Debug\netcoreapp3.1\UniqueNameConsoleApp.pdb
+C:\Users\DELL\source\repos\UniqueNameConsoleApp\UniqueNameConsoleApp\obj\Debug\netcoreapp3.1\UniqueNameConsoleApp.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\UniqueNameConsoleApp\UniqueNameConsoleApp\obj\Debug\netcoreapp3.1\UniqueNameConsoleApp.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\UniqueNameConsoleApp\UniqueNameConsoleApp\obj\Debug\netcoreapp3.1\UniqueNameConsoleApp.AssemblyInfo.cs
+C:\Users\DELL\source\repos\UniqueNameConsoleApp\UniqueNameConsoleApp\obj\Debug\netcoreapp3.1\UniqueNameConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\UniqueNameConsoleApp\UniqueNameConsoleApp\obj\Debug\netcoreapp3.1\UniqueNameConsoleApp.dll
+C:\Users\DELL\source\repos\UniqueNameConsoleApp\UniqueNameConsoleApp\obj\Debug\netcoreapp3.1\UniqueNameConsoleApp.pdb
+C:\Users\DELL\source\repos\UniqueNameConsoleApp\UniqueNameConsoleApp\obj\Debug\netcoreapp3.1\UniqueNameConsoleApp.genruntimeconfig.cache
